@@ -8,7 +8,7 @@ you to make sure that your modifications are compliant with our coding conventio
 
 <!--
 Description (as detailed as possible) of your contribution.
-- describe the part/s of RIOT is (are) involved
+- describe the part/s of the code is (are) involved
 - if it's a bug fix, describe the bug that it solves and how it is solved
 - you can give more information about how to test your changes
 -->
@@ -31,7 +31,7 @@ Use keywords with the link to the issue you want to resolve, this way some actio
 - If the PR is related to another one or issue: see, see also
 - If another PR need to be merged before this one: Depend on or Depends on
 
-Examples: 
+Examples:
   Fixes #135, see also #135, depends on #135, etc
 
 See more about this feature: https://help.github.com/articles/closing-issues-using-keywords/.
