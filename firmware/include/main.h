@@ -17,11 +17,9 @@
 /**
  * @{
  * @file        main.h
- * @brief       Main firmware file
+ * @brief       Mesh4ag firmware
  *
  * @copyright   Copyright (c) 2021 Mesh for all
- * @author      luisan00 <luisan00@hotmail.com>
- *
  */
 #ifndef MAIN_H
 #define MAIN_H

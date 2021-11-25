@@ -15,7 +15,7 @@
  */
 
 /**
- * @brief       Main firmware file
+ * @brief       M4ag firmware
  *
  * @copyright   Copyright (c) 2021 Mesh for all
  * @author      luisan00 <luisan00@hotmail.com>
